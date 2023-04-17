@@ -3,6 +3,7 @@
 <br>
 *(Você pode me ver falar sobre esse projeto no [DataFrame](https://medium.com/data-frame/uma-an%C3%A1lise-explorat%C3%B3ria-simples-sobre-a-exposi%C3%A7%C3%A3o-e-consumo-da-m%C3%BAsica-batom-de-cereja-durante-o-b95eb74323eb).)*
 <br>
+<br>
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Wr486YgDt1TeKvAOrLA4XQ.png "Ex-BBB Rodolffo em sua festa no BBB21.")
 <br>
 ### Objetivo e hipóteses:
