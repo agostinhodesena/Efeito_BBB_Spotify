@@ -12,6 +12,5 @@ Como um bom fã de TV, sempre tive curiosidade em saber o impacto no consumo de 
 Vasculhando bases no Kaggle, encontrei uma com o número de reproduções das músicas Top 200 de diversos países, coletadas dia sim, dia não, por Dhruvil Dave. Dando uma olhada nos dados, verifiquei que haviam informações da música Batom de Cereja, um dos grandes hits de 2021 impulsionado pelo BBB. Pronto! Já era possível lançar algumas hipóteses para tentar entender o sucesso da música.
 <br><br>
 **Hipóteses iniciais**:
-- X
-- Y
-- Z
+- O tempo de tela de Rodolffo na edição foi um fator determinante para as pessoas escutarem mais sua música.
+- O fato da música ser do ritmo sertanejo, um dos ritmos mais escutados do país, impulsionou seu sucesso.
